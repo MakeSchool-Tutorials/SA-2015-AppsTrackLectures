@@ -9,3 +9,5 @@ This lecture will provide an overview of the Parse framework and how it can be u
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q8NW_FrwQ5A" frameborder="0" allowfullscreen></iframe>
 
+
+You can download the slides [here](https://s3.amazonaws.com/mgwu-misc/SA2015/LectureSlides/ParseIntro.pdf).
