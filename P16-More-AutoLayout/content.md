@@ -9,4 +9,4 @@ These videos will teach you more about working with Scroll Views in AutoLayout, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n7HL8Ym0dDw" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/rgazh3vixQw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rgazh3vixQw" frameborder="0" allowfullscreen></iframe>
